@@ -18,8 +18,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Projects</h2>
+        <p>Committed to bringing a proactive approach, strong work ethics and a passion for continuous learning.</p>
       </div><!-- End Section Title -->
 
       <div class="container">

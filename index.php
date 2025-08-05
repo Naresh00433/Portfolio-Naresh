@@ -1,4 +1,13 @@
-<!DOCTYPE html>
+<?php
+
+header("Location: about");
+exit;
+
+?>
+
+
+
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <?php
@@ -13,7 +22,7 @@
 
   <main class="main">
 
-    <!-- Hero Section -->
+   
     <section id="hero" class="hero section">
 
       <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
@@ -28,7 +37,7 @@
         </div>
       </div>
 
-    </section><!-- /Hero Section -->
+    </section>
 
   </main>
 
@@ -36,10 +45,10 @@
     include_once 'pre/footer.php';
   ?>
 
-  <!-- Scroll Top -->
+
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Preloader -->
+
   <div id="preloader"></div>
 
   <?php
@@ -48,4 +57,4 @@
 
 </body>
 
-</html>
+</html> -->

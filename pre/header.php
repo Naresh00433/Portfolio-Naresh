@@ -3,7 +3,7 @@
 
           <a href="index" class="logo d-flex align-items-center me-auto me-xl-0">
               <!-- Uncomment the line below if you also wish to use an image logo -->
-              <!-- <img src="assets/img/logo.png" alt=""> -->
+              <img src="assets/11zon_cropped.png" alt="">
               <h1 class="sitename">Naresh</h1>
           </a>
 
@@ -12,8 +12,8 @@
                 <?php
                 $current_page = basename($_SERVER['PHP_SELF'], ".php");
                 ?>
-                <li><a href="index" class="<?= $current_page == 'index' ? 'active' : '' ?>">Home</a></li>
-                <li><a href="about" class="<?= $current_page == 'about' ? 'active' : '' ?>">About</a></li>
+                <!-- <li><a href="index" class="<?= $current_page == 'index' ? 'active' : '' ?>">Home</a></li> -->
+                <li><a href="about" class="<?= $current_page == 'about' ? 'active' : '' ?>">Home</a></li>
                 <li><a href="resume" class="<?= $current_page == 'resume' ? 'active' : '' ?>">Resume</a></li>
                 <li><a href="portfolio" class="<?= $current_page == 'portfolio' ? 'active' : '' ?>">Projects</a></li>
                 <!-- <li><a href="services" class="<?= $current_page == 'services' ? 'active' : '' ?>">Services</a></li>
