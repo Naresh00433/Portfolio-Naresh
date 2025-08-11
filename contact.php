@@ -53,7 +53,7 @@
                 </div>
               </div><!-- End Info Item -->
 
-                <iframe class="rounded-4" src="https://www.google.com/maps?q=Antriksh+Golf+View-1,+Sector-78,+Noida,+Uttar+Pradesh+201301&output=embed" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <!-- <iframe class="rounded-4" src="https://www.google.com/maps?q=Antriksh+Golf+View-1,+Sector-78,+Noida,+Uttar+Pradesh+201301&output=embed" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
             </div>
           </div>
 
